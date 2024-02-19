@@ -1,4 +1,4 @@
-# relief
+# Relief
 
 Relief is a motivational application that aims to help and encourage users through quotes and daily journaling.
 
